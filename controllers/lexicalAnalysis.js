@@ -36,7 +36,7 @@ var function_lexicalAnalysis = function(type, content){
   //API服务类型 = 请求域名 - 基础域名，需要传递参数
   var capi = new Capi({
     SecretId : 'AKIDCSv87KDBqLU7zRCOzWWui5NFR6OcuQzj' ,
-    SecretKey : 'O8fMpzdxtjBUNRTVh9jRz2AeIVHCzRbz' ,
+    SecretKey : '腾讯文智密钥' ,
     serviceType : 'wenzhi'
   }) ;
 
